@@ -1,0 +1,12 @@
+airbyte-cdk==0.25
+fastapi
+uvicorn
+
+[tests]
+MyPy~=0.812
+pytest~=6.2.5
+pytest-cov
+pytest-mock
+pytest-recording
+requests-mock
+pre-commit
